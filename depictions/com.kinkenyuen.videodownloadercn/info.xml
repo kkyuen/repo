@@ -1,0 +1,31 @@
+<package>
+	<id>com.kinkenyuen.videodownloadercn</id>
+	<name>VideoDownloaderCN</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<!-- <otherVersions>unsupported</otherVersions> -->
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<shortDescription>允许App内短视频下载保存</shortDescription>
+	<descriptionlist>
+		<description>App内短视频下载</description>
+		<description>功能</description>
+		<description><![CDATA[
+		1.微信时刻视频下载，视频播放界面长按呼出，基于微信7.0.2<br/> 
+		2.微博视频下载，视频预览与播放界面长按呼出，基于微博9.0.0<br/>
+		3.网易云音乐视频下载,视频预览与播放界面长按呼出，基于网易云音乐5.8.1<br/>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
