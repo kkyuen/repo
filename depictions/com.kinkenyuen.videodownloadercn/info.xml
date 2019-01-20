@@ -17,7 +17,7 @@
 		<description>App内短视频下载</description>
 		<description>功能</description>
 		<description><![CDATA[
-		1.微信时刻视频下载，视频播放界面长按呼出，基于微信7.0.2<br/> 
+		1.微信时刻视频下载，视频播放界面点按或长按呼出，基于微信7.0.2<br/> 
 		2.微博视频下载，视频预览与播放界面长按呼出，基于微博9.0.0<br/>
 		3.网易云音乐视频下载,视频预览与播放界面长按呼出，基于网易云音乐5.8.1<br/>
 		]]>
@@ -25,7 +25,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>系统设置内添加插件开关</change>
+		<change>添加视频下载进度，修复小问题，插件默认更改为关闭</change>
 	</changelog>
 	<links></links>
 </package>
