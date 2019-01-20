@@ -20,10 +20,24 @@
 		1.微信时刻视频下载，视频播放界面点按或长按呼出，基于微信7.0.2<br/> 
 		2.微博视频下载，视频预览与播放界面长按呼出，基于微博9.0.0<br/>
 		3.网易云音乐视频下载,视频预览与播放界面长按呼出，基于网易云音乐5.8.1<br/>
+		4.下载进度时点击进度条取消下载<br/>
 		]]>
 		</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>插件设置界面</description>
+			<image>tweak.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>视频下载</description>
+			<image>download_1.png</image>
+		</screenshot>	
+		<screenshot>
+			<description>视频下载进度</description>
+			<image>download_2.png</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>添加视频下载进度，修复小问题，插件默认更改为关闭</change>
 	</changelog>
