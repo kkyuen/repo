@@ -1,7 +1,7 @@
 <package>
 	<id>com.kinkenyuen.videodownloadercn</id>
 	<name>VideoDownloaderCN</name>
-	<version>1.0.3</version>
+	<version>1.0.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -20,6 +20,8 @@
 		1.微信时刻视频下载，视频播放界面点按或长按呼出，基于微信7.0.2<br/><br/>
 		2.微博视频下载，视频预览与播放界面长按呼出，基于微博9.0.0<br/><br/>
 		3.网易云音乐视频下载,视频预览与播放界面长按呼出，基于网易云音乐5.8.1<br/><br/>
+		4.Twitter视频下载,视频播放界面长按呼出，基于Twitter7.40<br/><br/>
+		5.百度贴吧视频下载，视频播放界面长按呼出,基于百度贴吧9.9.9<br/><br/>
 		]]>
 		</description>
 	</descriptionlist>
@@ -38,7 +40,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>添加视频下载进度，修复小问题，插件默认更改为关闭,首次安装请自行到设置开启</change>
+		<change>增加Twitter、百度贴吧视频下载</change>
 	</changelog>
 	<links></links>
 </package>
