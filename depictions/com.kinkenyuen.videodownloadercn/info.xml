@@ -1,7 +1,7 @@
 <package>
 	<id>com.kinkenyuen.videodownloadercn</id>
 	<name>VideoDownloaderCN</name>
-	<version>1.0.5</version>
+	<version>1.1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -41,7 +41,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>增加QQ视频下载</change>
+		<change>更新UI,Twitter添加视频画质选择</change>
 	</changelog>
 	<links></links>
 </package>

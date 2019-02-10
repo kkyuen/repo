@@ -1,0 +1,28 @@
+<package>
+	<id>com.kinkenyuen.douyinautonext</id>
+	<name>douyinAutoNext</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<!-- <otherVersions>unsupported</otherVersions> -->
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<shortDescription>抖音首页自动播放下一视频</shortDescription>
+	<descriptionlist>
+		<description>自动播放</description>
+		<description>功能</description>
+		<description><![CDATA[
+		抖音首页自动切换下一条视频，基于4.3.1<br/><br/>
+		]]>
+		</description>
+	</descriptionlist>
+	<changelog>
+		<change>抖音首页自动播放下一视频</change>
+	</changelog>
+	<links></links>
+</package>
