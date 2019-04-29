@@ -1,7 +1,7 @@
 <package>
 	<id>com.kinkenyuen.videodownloadercn</id>
 	<name>VideoDownloaderCN</name>
-	<version>1.1.1</version>
+	<version>1.1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -42,7 +42,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>增加今日头条视频下载(含Pro版)</change>
+		<change>修复闪退</change>
 	</changelog>
 	<links></links>
 </package>
