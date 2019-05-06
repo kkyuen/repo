@@ -1,7 +1,7 @@
 <package>
 	<id>com.kinkenyuen.videodownloadercn</id>
 	<name>VideoDownloaderCN</name>
-	<version>1.2.0</version>
+	<version>1.2.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -43,7 +43,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>新增Youtube、QQ音乐视频下载</change>
+		<change>兼容Twitter 7.49</change>
 	</changelog>
 	<links></links>
 </package>

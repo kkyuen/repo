@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>1.2.1</version>
+		<change>兼容Twitter 7.49</change>
+	</changes>
+
+	<changes>
 		<version>1.2.0</version>
 		<change>新增Youtube、QQ音乐视频下载</change>
 	</changes>
