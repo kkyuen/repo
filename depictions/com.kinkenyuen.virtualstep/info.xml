@@ -1,0 +1,28 @@
+<package>
+	<id>com.ken.blocksimalert</id>
+	<name>blocksimalert</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<!-- <otherVersions>unsupported</otherVersions> -->
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate,preferenceloader</dependencies>
+	<shortDescription>修改健康App步数</shortDescription>
+	<descriptionlist>
+		<description>修改健康App步数</description>
+		<description>功能</description>
+		<description><![CDATA[
+		修改健康App步数<br/><br/>
+		]]>
+		</description>
+	</descriptionlist>
+	<changelog>
+		<change></change>
+	</changelog>
+	<links></links>
+</package>
